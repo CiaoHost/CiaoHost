@@ -1,0 +1,902 @@
+[
+  {
+    "date": "2025-05-10",
+    "price": 2670865.66,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-11",
+    "price": 2182330.02,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-12",
+    "price": 1531940.37,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-13",
+    "price": 1552065.56,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-14",
+    "price": 1559251.02,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-15",
+    "price": 1760540.75,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-16",
+    "price": 2337746.56,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-17",
+    "price": 2513958.41,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-18",
+    "price": 2220855.3,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-19",
+    "price": 1543980.57,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-20",
+    "price": 1576916.32,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-21",
+    "price": 1645795.6,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-22",
+    "price": 1811066.63,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-23",
+    "price": 2407817.33,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-24",
+    "price": 2577694.8,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-25",
+    "price": 2250671.37,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-26",
+    "price": 1583264.22,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-27",
+    "price": 1561181.58,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-28",
+    "price": 1640715.05,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-29",
+    "price": 1799927.75,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-30",
+    "price": 2346667.6,
+    "status": "available"
+  },
+  {
+    "date": "2025-05-31",
+    "price": 2646130.66,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-01",
+    "price": 2754747.46,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-02",
+    "price": 1848398.18,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-03",
+    "price": 1929643.64,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-04",
+    "price": 2013554.19,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-05",
+    "price": 2179859.18,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-06",
+    "price": 2798318.09,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-07",
+    "price": 3214006.7,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-08",
+    "price": 2536079.83,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-09",
+    "price": 1949627.43,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-10",
+    "price": 1972388.71,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-11",
+    "price": 1881479.58,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-12",
+    "price": 2232298.95,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-13",
+    "price": 2825769.8,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-14",
+    "price": 3035023.28,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-15",
+    "price": 2734234.27,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-16",
+    "price": 1992286.21,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-17",
+    "price": 1997356.53,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-18",
+    "price": 1882892.87,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-19",
+    "price": 2187654.58,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-20",
+    "price": 2737388.65,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-21",
+    "price": 3017811.32,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-22",
+    "price": 2711339.34,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-23",
+    "price": 1898994.02,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-24",
+    "price": 1840045.45,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-25",
+    "price": 1844132.78,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-26",
+    "price": 2169856.68,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-27",
+    "price": 2934626.75,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-28",
+    "price": 3269135.38,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-29",
+    "price": 2689235.39,
+    "status": "available"
+  },
+  {
+    "date": "2025-06-30",
+    "price": 1889577.04,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-01",
+    "price": 2384882.46,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-02",
+    "price": 2388206.93,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-03",
+    "price": 2784168.52,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-04",
+    "price": 3600678.13,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-05",
+    "price": 3838692.67,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-06",
+    "price": 3225491.51,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-07",
+    "price": 2294722.63,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-08",
+    "price": 2448941.55,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-09",
+    "price": 2362275.91,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-10",
+    "price": 2574163.81,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-11",
+    "price": 3541923.2,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-12",
+    "price": 3897728.36,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-13",
+    "price": 3215359.21,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-14",
+    "price": 2334217.12,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-15",
+    "price": 2397233.84,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-16",
+    "price": 2395525.02,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-17",
+    "price": 2565906.89,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-18",
+    "price": 3420359.4,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-19",
+    "price": 4014986.26,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-20",
+    "price": 3233325.13,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-21",
+    "price": 2426805.53,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-22",
+    "price": 2505329.87,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-23",
+    "price": 2345229.24,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-24",
+    "price": 2692978.63,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-25",
+    "price": 3435221.67,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-26",
+    "price": 4081741.64,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-27",
+    "price": 3331735.8,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-28",
+    "price": 2309985.14,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-29",
+    "price": 2402071.47,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-30",
+    "price": 2386137.38,
+    "status": "available"
+  },
+  {
+    "date": "2025-07-31",
+    "price": 2771923.49,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-01",
+    "price": 3706582.11,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-02",
+    "price": 4275097.41,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-03",
+    "price": 3401726.06,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-04",
+    "price": 2542021.92,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-05",
+    "price": 2681944.62,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-06",
+    "price": 2541366.34,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-07",
+    "price": 2784911.68,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-08",
+    "price": 3879364.99,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-09",
+    "price": 4288479.7,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-10",
+    "price": 3661590.58,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-11",
+    "price": 2538707.87,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-12",
+    "price": 2598878.73,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-13",
+    "price": 2648400.08,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-14",
+    "price": 2883630.78,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-15",
+    "price": 3769206.84,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-16",
+    "price": 3968501.71,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-17",
+    "price": 3561307.39,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-18",
+    "price": 2683846.65,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-19",
+    "price": 2577533.17,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-20",
+    "price": 2458446.22,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-21",
+    "price": 2806173.01,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-22",
+    "price": 3996585.49,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-23",
+    "price": 4266346.33,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-24",
+    "price": 3554425.62,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-25",
+    "price": 2667256.47,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-26",
+    "price": 2486257.76,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-27",
+    "price": 2466514.28,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-28",
+    "price": 2952328.85,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-29",
+    "price": 3775731.22,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-30",
+    "price": 4202069.22,
+    "status": "available"
+  },
+  {
+    "date": "2025-08-31",
+    "price": 3572585.66,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-01",
+    "price": 1753807.32,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-02",
+    "price": 1803647.12,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-03",
+    "price": 1846085.62,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-04",
+    "price": 1953620.06,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-05",
+    "price": 2629052.43,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-06",
+    "price": 2997902.9,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-07",
+    "price": 2381601.44,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-08",
+    "price": 1823755.04,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-09",
+    "price": 1734327.41,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-10",
+    "price": 1764594.99,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-11",
+    "price": 1934163.44,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-12",
+    "price": 2522604.17,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-13",
+    "price": 2786584.39,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-14",
+    "price": 2395137.47,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-15",
+    "price": 1690868.56,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-16",
+    "price": 1709213.16,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-17",
+    "price": 1721510.08,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-18",
+    "price": 1945911.55,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-19",
+    "price": 2595598.58,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-20",
+    "price": 2727325.46,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-21",
+    "price": 2439417.96,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-22",
+    "price": 1826086.59,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-23",
+    "price": 1758178.46,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-24",
+    "price": 1775084.99,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-25",
+    "price": 1893291.96,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-26",
+    "price": 2593485.9,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-27",
+    "price": 2839527.13,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-28",
+    "price": 2465637.01,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-29",
+    "price": 1768738.36,
+    "status": "available"
+  },
+  {
+    "date": "2025-09-30",
+    "price": 1791795.65,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-01",
+    "price": 1456679.11,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-02",
+    "price": 1642675.89,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-03",
+    "price": 2089106.3,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-04",
+    "price": 2406591.95,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-05",
+    "price": 1890133.68,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-06",
+    "price": 1458082.89,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-07",
+    "price": 1374439.55,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-08",
+    "price": 1472305.42,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-09",
+    "price": 1617006.68,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-10",
+    "price": 2189340.99,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-11",
+    "price": 2239707.73,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-12",
+    "price": 1933083.2,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-13",
+    "price": 1407306.91,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-14",
+    "price": 1394172.31,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-15",
+    "price": 1378153.51,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-16",
+    "price": 1608741.79,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-17",
+    "price": 2234126.09,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-18",
+    "price": 2398369.44,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-19",
+    "price": 1964873.85,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-20",
+    "price": 1410291.43,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-21",
+    "price": 1447533.32,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-22",
+    "price": 1397860.01,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-23",
+    "price": 1540112.25,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-24",
+    "price": 2138095.81,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-25",
+    "price": 2367115.06,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-26",
+    "price": 2060013.31,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-27",
+    "price": 1437259.71,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-28",
+    "price": 1505902.83,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-29",
+    "price": 1494919.37,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-30",
+    "price": 1693683.5,
+    "status": "available"
+  },
+  {
+    "date": "2025-10-31",
+    "price": 2104736.99,
+    "status": "available"
+  },
+  {
+    "date": "2025-11-01",
+    "price": 2005686.42,
+    "status": "available"
+  },
+  {
+    "date": "2025-11-02",
+    "price": 1836688.48,
+    "status": "available"
+  },
+  {
+    "date": "2025-11-03",
+    "price": 1337002.8,
+    "status": "available"
+  },
+  {
+    "date": "2025-11-04",
+    "price": 1340973.69,
+    "status": "available"
+  },
+  {
+    "date": "2025-11-05",
+    "price": 1311267.99,
+    "status": "available"
+  }
+]

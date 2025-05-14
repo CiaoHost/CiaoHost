@@ -1,0 +1,3 @@
+id,booking_id,date,subject,content
+msg1,book1,2023-08-19,Welcome to Seaside Villa,"Dear John Smith, welcome to our Seaside Villa! We look forward to hosting you."
+msg2,book1,2023-08-18,Check-in Instructions,"Dear John Smith, here are the check-in instructions for your stay at Seaside Villa."

@@ -1,0 +1,54 @@
+Progetto Applicazione "CiaoHost" – Gestione Immobili B&B a Breve Termine
+Obiettivo: Creare un'applicazione per la gestione automatizzata di immobili destinati all'affitto a breve termine (es. B&B), tramite un Co-host virtuale basato su intelligenza artificiale (AI), con focus sull'automazione dell'interazione con il cliente e sulla semplificazione delle attività operative per l'host.
+
+Funzionalità Principali
+1. Co-host Virtuale AI
+
+Interazione automatizzata con i clienti tramite chat.
+Esempio di dialogo:
+Cliente: "Ciao, vorrei prenotare un immobile a Napoli. Sul registro ne vedo molti, quale mi consigli?"
+CiaoHost AI: "Salve, signor [Nome del cliente], le consiglio l'abitazione 1: ha ottime valutazioni ed è attualmente disponibile. Vuole prenotare?"
+Cliente: "Sì, vorrei prenotare."
+AI: "Il prezzo è di 99,99$ a notte."
+Cliente: "Va bene, procedi al pagamento per 3 persone e 2 notti."
+AI: "Perfetto, elaboro il pagamento!" (In demo: transazioni simulate)
+2. Automazione Check-in e Checkout
+
+Gestione autonoma delle comunicazioni di check-in e checkout con i clienti.
+Invio automatico di notifiche alla ditta di pulizie assegnata all'immobile al momento del checkout.
+Blocco automatico dell’immobile per 1 giorno dopo il checkout per consentire la pulizia.
+3. Chatbot Multilingua Avanzato
+
+Risposte immediate alle domande frequenti dei clienti.
+Attivo 24/7 in più lingue.
+4. Prezzi Dinamici AI
+
+Generazione e aggiornamento automatico dei prezzi in base alla domanda nella zona (monitoraggio immobiliare online e interno all’app).
+Ottimizzazione dei ricavi per l’host.
+5. Dashboard di Controllo per l’Host
+
+Visualizzazione dettagliata e aggiornata in tempo reale:
+Prenotazioni
+Feedback dei clienti
+Stato pulizie
+Prezzi e performance
+Statistiche e reportistica
+Piani di Abbonamento
+🔹 Piano Base – 25 €/mese per immobile + 10% commissione
+
+Include:
+
+Concierge AI multilingua 24/7
+Ottimizzazione prezzi AI
+Dashboard base con statistiche
+Sistema antifrode ospiti (disattivabile)
+Archivio fiscale e fatturazione
+🔸 Piano Pro – 44,99 €/mese per immobile + 10% commissione
+
+Include tutto il Piano Base, in aggiunta a:
+
+Dashboard avanzata
+Analisi predittiva delle prenotazioni
+Personalizzazione chatbot
+Priorità supporto tecnico
+Integrazione API con portali esterni

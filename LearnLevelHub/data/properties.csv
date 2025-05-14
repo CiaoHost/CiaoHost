@@ -1,0 +1,4 @@
+id,name,address,bedrooms,bathrooms,description,price_per_night,amenities
+prop1,Seaside Villa,123 Ocean Drive Portofino,3,2,Beautiful villa with ocean views and private garden.,250.0,"[""WiFi"", ""Pool"", ""Kitchen"", ""Air Conditioning""]"
+prop2,Mountain Retreat,45 Alpine Way Cortina,2,1,Cozy mountain cabin with fireplace and stunning views.,180.0,"[""WiFi"", ""Fireplace"", ""Kitchen"", ""Parking""]"
+00265219,Casa Ciao ,via talka puli 19,3,0,mannaggia a dio morto,99.99,"[""WiFi"", ""Parking"", ""TV"", ""Kitchen"", ""Air Conditioning""]"
